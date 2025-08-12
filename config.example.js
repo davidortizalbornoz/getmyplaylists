@@ -11,7 +11,7 @@ module.exports = {
         redirectUri: 'https://127.0.0.1:3443/callback',
         
         // Código de autorización (se obtiene automáticamente)
-        authorizationCode: 'TU_CODIGO_DE_AUTORIZACION_AQUI'
+        authorizationCode: 'NO APLICA'
     }
 };
 
